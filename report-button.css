@@ -17,7 +17,7 @@ year:2022
     color: #fff;
     font-weight: 400;
     padding: 4px 7px;
-    background: #fe3231;
+    background: #3d5afe;
     box-shadow: 0 2px 2px -1px rgb(0 0 0 / 30%), 0 1px 0 0 rgb(0 0 0 / 5%);
     pointer-events: none;
     font-size: 14px;
@@ -27,7 +27,7 @@ year:2022
   .hasubtech-tips::after, [class*=hasubtech-tips]::after {
     content: "";
     border-style: solid;
-    border-color: #fe3231 transparent transparent;
+    border-color: #3d5afe transparent transparent;
     border-width: 10px;
     top: 8px;
 }
